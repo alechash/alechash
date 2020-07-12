@@ -1,16 +1,23 @@
-### Hi there 👋
+# Jude Wilson
+```js
+const judeWilson = {
+	name: 'Jude Wilson',
+	age: 14,
+	location: 'Dayton, Ohio',
+	languages: [
+		'English', 'JavaScript', 'CSS',
+		'Sass', 'HTML', 'Node.js'
+	],
+	tools: [
+		'VS Code', 'CMD Line', 'MongoDB',
+		'Git', 'GitHub', 'Electron'
+	],
+	os: ['macOS', 'Linux'],
+	projects: [
+		'nodetube': 'Open source YouTube alternative with 1.8k stars on GitHub. https://github.com/mayeaux/nodetube',
+		'nodium': 'Open source Medium alternative with video posting support. https://github.com/mr-winson/nodium'
+	]
+}
 
-<!--
-**mr-winson/mr-winson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+console.log(judeWilson)
+```
