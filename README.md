@@ -28,11 +28,6 @@ const judeWilson = {
 console.log(judeWilson)
 ```
 -->
-My latest activity on GitHub:
-<!-- START gadpp -->
-- mr-winson/mr-winson, [refs/heads/master@d514c2a91a2dd8bfcc1b402ab5e40fc27f16b141](https://github.com/mr-winson/mr-winson/commit/d514c2a91a2dd8bfcc1b402ab5e40fc27f16b141)
-<!-- END gadpp -->
-
 Interesting stuff on how I work:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
