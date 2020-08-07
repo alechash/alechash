@@ -26,5 +26,5 @@ const judeWilson = {
 console.log(judeWilson)
 ```
 <!-- START gadpp -->
-- mr-winson/mr-winson, [refs/heads/master@e62bc12f6e699a17a1234b160655fcf4c00d918d](https://github.com/mr-winson/mr-winson/commit/e62bc12f6e699a17a1234b160655fcf4c00d918d)
+- mr-winson/mr-winson, [refs/heads/master@bd2b1e1d58d904def295dacab0b5485da688fe92](https://github.com/mr-winson/mr-winson/commit/bd2b1e1d58d904def295dacab0b5485da688fe92)
 <!-- END gadpp -->
