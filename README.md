@@ -28,6 +28,5 @@ const judeWilson = {
 console.log(judeWilson)
 ```
 -->
-Interesting stuff on how I work:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
