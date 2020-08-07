@@ -30,6 +30,7 @@ console.log(judeWilson)
 -->
 My latest activity on GitHub:
 <!-- START gadpp -->
+- mr-winson/mr-winson, [refs/heads/master@1f8bf769de0998db3376970c44c9a8c63a7ca3c0](https://github.com/mr-winson/mr-winson/commit/1f8bf769de0998db3376970c44c9a8c63a7ca3c0)
 <!-- END gadpp -->
 
 Interesting stuff on how I work:
