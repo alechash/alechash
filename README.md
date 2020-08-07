@@ -3,6 +3,7 @@
 [![https://twitter.com/mrmemrdev](https://img.shields.io/badge/-@mrmemrdev-24292e?style=flat&logo=Twitter&logoColor=blue&link=https://twitter.com/mrmemrdev)](https://twitter.com/mrmemrdev)
 [![mrwinson@pm.me](https://img.shields.io/badge/-mrwinson@pm.me-24292e?style=flat&logo=ProtonMail&logoColor=Grey&link=mailto:mrwinson@pm.me)](mailto:mrwinson@pm.me)
 [![https://mrwinson.me](https://img.shields.io/badge/-mrwinson.me-24292e?style=flat&logo=Duckduckgo&logoColor=Orange&link=mrwinson.me)](https://mrwinson.me) 
+<!--
 ```js
 const judeWilson = {
 	name: 'Jude Wilson',
@@ -22,9 +23,11 @@ const judeWilson = {
 		'nodium': 'Open source Medium alternative with video posting support. https://github.com/mr-winson/nodium'
 	]
 }
-
+-->
+<!--
 console.log(judeWilson)
 ```
+-->
+My latest activity on GitHub:
 <!-- START gadpp -->
-- mr-winson/mr-winson, [refs/heads/master@39fc887d4e663f0568d48ccc8c29e97e1855ba78](https://github.com/mr-winson/mr-winson/commit/39fc887d4e663f0568d48ccc8c29e97e1855ba78)
 <!-- END gadpp -->
