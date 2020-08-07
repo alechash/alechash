@@ -1,4 +1,8 @@
 # Jude Wilson
+[![https://medium.com/@mrmemr](https://img.shields.io/badge/-@mrmemr-24292e?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@mrmemr)](https://medium.com/@mrmemr)
+[![https://twitter.com/mrmemrdev](https://img.shields.io/badge/-@mrmemrdev-24292e?style=flat&logo=Twitter&logoColor=blue&link=https://twitter.com/mrmemrdev)](https://twitter.com/mrmemrdev)
+[![mrwinson@pm.me](https://img.shields.io/badge/-mrwinson@pm.me-24292e?style=flat&logo=ProtonMail&logoColor=Grey&link=mailto:mrwinson@pm.me)](mailto:mrwinson@pm.me)
+[![https://mrwinson.me](https://img.shields.io/badge/-mrwinson.me-24292e?style=flat&logo=Duckduckgo&logoColor=Orange&link=mrwinson.me)](https://mrwinson.me) 
 ```js
 const judeWilson = {
 	name: 'Jude Wilson',
