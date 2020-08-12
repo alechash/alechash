@@ -3,31 +3,10 @@
 [![https://twitter.com/mrmemrdev](https://img.shields.io/badge/-@mrmemrdev-24292e?style=flat&logo=Twitter&logoColor=blue&link=https://twitter.com/mrmemrdev)](https://twitter.com/mrmemrdev)
 [![mrwinson@pm.me](https://img.shields.io/badge/-mrwinson@pm.me-24292e?style=flat&logo=ProtonMail&logoColor=Grey&link=mailto:mrwinson@pm.me)](mailto:mrwinson@pm.me)
 [![https://mrwinson.me](https://img.shields.io/badge/-mrwinson.me-24292e?style=flat&logo=Duckduckgo&logoColor=Orange&link=mrwinson.me)](https://mrwinson.me) 
-<!--
-```js
-const judeWilson = {
-	name: 'Jude Wilson',
-	age: 14,
-	location: 'Dayton, Ohio',
-	languages: [
-		'English', 'JavaScript', 'CSS',
-		'Sass', 'HTML', 'Node.js'
-	],
-	tools: [
-		'VS Code', 'CMD Line', 'MongoDB',
-		'Git', 'GitHub', 'Electron'
-	],
-	os: ['macOS', 'Linux'],
-	projects: [
-		'nodetube': 'Open source YouTube alternative with 1.8k stars on GitHub. https://github.com/mayeaux/nodetube',
-		'nodium': 'Open source Medium alternative with video posting support. https://github.com/mr-winson/nodium'
-	]
-}
--->
-<!--
-console.log(judeWilson)
-```
--->
+
+### What I listen to while programming
+https://embed.music.apple.com/us/playlist/programming/pl.u-BNA6YjXCzG6v9p
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
