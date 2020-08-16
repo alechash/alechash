@@ -8,11 +8,11 @@
 https://embed.music.apple.com/us/playlist/programming/pl.u-BNA6YjXCzG6v9p
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 914 Contributions in year 2020
+> 🏆 914 Contributions in 2020
  > 
 > 📦 Used 64.9 kB in GitHub's Storage 
  > 
@@ -22,7 +22,7 @@ https://embed.music.apple.com/us/playlist/programming/pl.u-BNA6YjXCzG6v9p
  > 
 > 🔑 9 Owned Private Repositories 
 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    22 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85% 
@@ -45,7 +45,7 @@ Sunday       88 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Timezone: America/New_York
@@ -70,7 +70,7 @@ blog                     2 hrs 16 mins       ██░░░░░░░░░�
 
 ```
 
-**I mostly code in HTML** 
+**I Mostly Code in HTML** 
 
 ```text
 HTML                     13 repos            ██████████░░░░░░░░░░░░░░░   40.62% 
