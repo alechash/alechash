@@ -10,17 +10,17 @@ https://embed.music.apple.com/us/playlist/programming/pl.u-BNA6YjXCzG6v9p
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 914 Contributions in 2020
+> 🏆 917 Contributions in the year 2020
  > 
-> 📦 Used 64.9 kB in GitHub's Storage 
+> 📦 64.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 34 Public Repositories 
+> 📜 35 Public repositories
  > 
-> 🔑 9 Owned Private Repositories 
+> 🔑 9 Private repositories 
 
 **I'm a Night 🦉** 
 
@@ -31,7 +31,7 @@ https://embed.music.apple.com/us/playlist/programming/pl.u-BNA6YjXCzG6v9p
 🌙 Night      191 commits    ██████░░░░░░░░░░░░░░░░░░░   24.74%
 
 ```
-📅 **I'm Most Productive on Fridays** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
 Monday       34 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.4% 
@@ -45,19 +45,19 @@ Sunday       88 commits     ██░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: America/New_York
+⌚︎ Time zone: America/New_York
 
-💬 Languages: 
+💬 Programming Languages: 
 Other                    8 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.25% 
 HTML                     6 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   27.69% 
 CSS                      4 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.76% 
 JavaScript               3 hrs 55 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.61% 
 Python                   46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.09%
 
-🔥 Editors: 
+🔥 Code Editors: 
 VS Code                  16 hrs 46 mins      ████████████████░░░░░░░░░   66.8% 
 Chrome                   8 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.2%
 
