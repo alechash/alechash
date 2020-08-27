@@ -4,11 +4,14 @@
 [![mrwinson@pm.me](https://img.shields.io/badge/-mrwinson@pm.me-24292e?style=flat&logo=ProtonMail&logoColor=Grey&link=mailto:mrwinson@pm.me)](mailto:mrwinson@pm.me)
 [![https://mrwinson.me](https://img.shields.io/badge/-mrwinson.me-24292e?style=flat&logo=Duckduckgo&logoColor=Orange&link=mrwinson.me)](https://mrwinson.me) 
 
+### What I am Currently Working On
+[SUSPCS](https://suspcs.xyz), the magazine and marketing company of the future.
+
 ### What I listen to while programming
 https://embed.music.apple.com/us/playlist/programming/pl.u-BNA6YjXCzG6v9p
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-672-blue)
 
 **🐱 My Github Data** 
 
