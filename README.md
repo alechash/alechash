@@ -3,6 +3,9 @@
 ### Links
 [email](mailto:jude@alecw.net), [alecw.net](https://alecw.net), [twitter](https://twitter.com/mrmemrdev), [medium](https://mrmemr.medium.com/)
 
+### Current Learning Project
+[mr-winson/Simplities](https://github.com/mr-winson/Simplities), a simple utilities native iOS/iPadOS app. Goal: learn swift and the xcode ide
+
 ### Current Side-Project
 [mr-winson/brandco](https://github.com/mr-winson/brandco), an index to easily find brand resources.
 
