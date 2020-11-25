@@ -7,7 +7,8 @@
 [mr-winson/Simplities](https://github.com/mr-winson/Simplities), a simple utilities native iOS/iPadOS app. Goal: learn swift and the xcode ide
 
 ### Current Side-Project
-[mr-winson/brandco](https://github.com/mr-winson/brandco), an index to easily find brand resources.
+[mr-winson/brandco](https://github.com/mr-winson/brandco), an index to easily find brand resources.<br>
+[mr-winson/search-engine](https://github.com/mr-winson/search-engine), an open-source search engine.
 
 ### Current Employment
 [@SiddesMedia](https://github.com/siddesmedia), a media company.
