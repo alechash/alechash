@@ -1,7 +1,9 @@
 # Jude Wilson
 
 ### Links
-[email](mailto:jude@alecw.net), [alecw.net](https://alecw.net), [twitter](https://twitter.com/mrmemrdev), [medium](https://mrmemr.medium.com/)
+[email](mailto:jude@alecw.net), [alecw.net](https://alecw.net), [twitter](https://twitter.com/mrmemrdev), [medium](https://mrmemr.medium.com/), [siddes](https://siddes.com/404)
+<br><br>my sites<br>
+[internet archive](https://archive.alecw.net), [bad ui battles](https://ui.alecw.net)
 
 ### Current Learning Project
 [mr-winson/Simplities](https://github.com/mr-winson/Simplities), a simple utilities native iOS/iPadOS app. Goal: learn swift and the xcode ide
