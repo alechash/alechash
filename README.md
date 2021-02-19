@@ -18,4 +18,4 @@ Frameworks: [Bootstrap](https://getbootstrap.com), [Primer](https://primer.style
 [mr-winson/brandco](https://github.com/mr-winson/brandco), an index to easily find brand resources. What I am learning: how to loop and index through JSON.
 
 ## Current Employment
-[@SiddesMedia](https://github.com/siddesmedia), a media company.
+[@Bruggg](https://github.com/bruggg), a media company.
