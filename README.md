@@ -1,21 +1,21 @@
 # Alec Wilson
-Knowledge: NodeJS, Python, HTML and CSS, JS and jQuery, Git, Command Line<br>
-Frameworks: [Bootstrap](https://getbootstrap.com), [Primer](https://primer.style), [Bulma](https://bulma.io)
+Knowledge: [NodeJS](https://nodejs.org), [Python](https://python.org), HTML and CSS, JS and [jQuery](https://jquery.com/), [Git](https://git-scm.com), Command Line<br>
+JS Frameworks: [ExpressJS](https://expressjs.com), [Tailwind](https://tailwindcss.com), pretty much anything on [NPM](https://npm.im)<br>
+CSS Frameworks: [Bootstrap](https://getbootstrap.com), [Primer](https://primer.style), [Bulma](https://bulma.io), [Tailwind](https://tailwindcss.com), [Generate](https://github.com/mr-winson/generate.css)
 
 ## Links
-[email](mailto:jude@alecw.net), [alecw.net](https://alecw.net), [medium](https://mrmemr.medium.com/), [siddes](https://siddes.com/404)
-<br><br>my sites<br>
-[internet archive](https://archive.alecw.net), [bad ui battles](https://ui.alecw.net)
+[email](mailto:jude@alecw.net), [alecw.net](https://alecw.net), [blog](https://blog.alecw.net/), [siddes](https://siddes.com/404)
 
 ## Projects
 #### Main Project
-[mr-winson/branches](https://github.com/mr-winson/branches), a small and developer-only social media to share your bugs.
+[bruggg/bettermacstore](https://github.com/bruggg/bettermacstore), a better mac app store, because the real one stinks
 
 #### Side Project
-[mr-winson/search-engine](https://github.com/mr-winson/search-engine), an open-source search engine.
+[mr-winson/facebook.js](https://github.com/mr-winson/facebook.js), old looking facebook (pre-2014), written in JS<br>
+[mr-winson/generate.css](https://github.com/mr-winson/generate.css), a CSS library that is completely generated using JS
 
 #### Learning Project
-[mr-winson/brandco](https://github.com/mr-winson/brandco), an index to easily find brand resources. What I am learning: how to loop and index through JSON.
+[mr-winson/blog](https://github.com/mr-winson/blog), not my actual blog, but learning Hugo static generation
 
 ## Current Employment
-[@Bruggg](https://github.com/bruggg), a media company.
+[@Bruggg](https://github.com/bruggg), a cool company.
