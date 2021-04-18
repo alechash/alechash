@@ -11,11 +11,12 @@ CSS Frameworks: [Bootstrap](https://getbootstrap.com), [Primer](https://primer.s
 [bruggg/bettermacstore](https://github.com/bruggg/bettermacstore), a better mac app store, because the real one stinks
 
 #### Side Project
-[alechash/facebook.js](https://github.com/alechash/facebook.js), old looking facebook (pre-2014), written in JS<br>
-[alechash/generate.css](https://github.com/alechash/generate.css), a CSS library that is completely generated using JS
+[alechash/thebill.cc](https://github.com/alechash/thebill.cc), a US currency tracking website<br>
 
 #### Learning Project
-[alechash/blog.alecw.net](https://github.com/alechash/blog.alecw.net), my blog, learning data store in JSON files and loaded statically onto a page
+[Ruby](https://www.ruby-lang.org/en/), I am learning Ruby<br>
+[Ruby on Rails](https://rubyonrails.org), to go along with Ruby, I am learning Rails, the web server<br>
+[Go](https://www.golang.org/), I am learning Go Lang as well
 
 ## Current Employment
 [@Bruggg](https://github.com/bruggg), a cool company.
