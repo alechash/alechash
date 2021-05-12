@@ -8,7 +8,7 @@ CSS Frameworks: [Bootstrap](https://getbootstrap.com), [Primer](https://primer.s
 
 ## Projects
 #### Main Project
-[bruggg/bettermacstore](https://github.com/bruggg/bettermacstore), a better mac app store, because the real one stinks
+[alechash/bettermacstore](https://github.com/alechash/bettermacstore), a better mac app store, because the real one stinks
 
 #### Side Project
 [alechash/thebill.cc](https://github.com/alechash/thebill.cc), a US currency tracking website<br>
