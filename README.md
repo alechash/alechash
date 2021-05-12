@@ -19,4 +19,4 @@ CSS Frameworks: [Bootstrap](https://getbootstrap.com), [Primer](https://primer.s
 [Go](https://www.golang.org/), I am learning Go Lang as well
 
 ## Current Employment
-[@Bruggg](https://github.com/bruggg), a cool company.
+[@Cryzza](https://github.com/cryzza), a crypto company.
