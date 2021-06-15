@@ -14,6 +14,7 @@ CSS Frameworks: [Bootstrap](https://getbootstrap.com), [Primer](https://primer.s
 [alechash/thebill.cc](https://github.com/alechash/thebill.cc), a US currency tracking website<br>
 
 #### Learning Project
+[Swift](https://www.swift.org/), I am learning Swift<br>
 [Ruby](https://www.ruby-lang.org/en/), I am learning Ruby<br>
 [Ruby on Rails](https://rubyonrails.org), to go along with Ruby, I am learning Rails, the web server<br>
 [Go](https://www.golang.org/), I am learning Go Lang as well
