@@ -1,10 +1,11 @@
 # Alec Wilson
 Knowledge: [NodeJS](https://nodejs.org), [Python](https://python.org), HTML and CSS, JS and [jQuery](https://jquery.com/), [Git](https://git-scm.com), Command Line<br>
 JS Frameworks: [ExpressJS](https://expressjs.com), [Tailwind](https://tailwindcss.com), pretty much anything on [NPM](https://npm.im)<br>
-CSS Frameworks: [Bootstrap](https://getbootstrap.com), [Primer](https://primer.style), [Bulma](https://bulma.io), [Tailwind](https://tailwindcss.com), [Generate](https://github.com/alechash/generate.css)
+CSS Frameworks: [Bootstrap](https://getbootstrap.com), [Primer](https://primer.style), [Bulma](https://bulma.io), [Tailwind](https://tailwindcss.com), [Generate](https://github.com/alechash/generate.css)  
+PGP Key: C3D3938309CF3700
 
 ## Links
-[email](mailto:jude@alecw.net), [alecw.net](https://alecw.net), [blog](https://blog.alecw.net/), [siddes](https://siddes.com/404)
+[email](mailto:jude@alecw.net), [alecw.net](https://alecw.net), [blog](https://blog.alecw.net/), [siddes](https://siddes.com/404), [keybase @alechash](https://keybase.io/alechash#edit-me)
 
 ## Projects
 #### Main Project
