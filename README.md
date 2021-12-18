@@ -7,6 +7,8 @@ Hey, I am Alec Wilson, I am a 15 year old kid born and raised in rural Ohio. I w
 - [BenchScout](https://benchscout.com), a sports site. Track your favorite teams, get updates, and follow live games
 - [Command Bar](https://github.com/alechash/command-bar), a macOS status bar app to find common keybord shortcuts and what they do
 - [GitBin](https://github.com/alechash/git-bin), this is an open source paste bin alternative, offering free bins and a URL shortener
+- [Better Mac Store](https://github.com/alechash/BetterMacStore), an open source alternative to the Mac App Store. No signing, no stealing
+- [Siddes](https://github.com/siddesmedia/siddes), this is an open source social media that brings features from Twitter and Reddit
 
 ### In The Works
 - [turbster.app](https://turbster.app), its like instagram but for cars
@@ -18,11 +20,32 @@ Hey, I am Alec Wilson, I am a 15 year old kid born and raised in rural Ohio. I w
 - College Football, Ohio State is what I was raised watching
 - My favorite TV shows are Seinfeld, The Office, and Cheers
 
-### Things I Would Like Todo
-- [ ] Contribute to Linux
+### Todo List in Life
+- [x] Contribute to the GitHubs Arctic Code Vault
+- [x] Contribute to an OSS project with 1000+ stars
+- [ ] Run a production project with 1000+ users
+- [ ] Compile my own Linux Kernel
+- [ ] Write a programming langauge compiler
+- [ ] Complete [Hacker101 Capture the Flag](https://ctf.hacker101.com)
+- [ ] Contribute to the Linux Kernel
 - [ ] Sell a project/startup
 - [ ] Work for FAANG (or Microsoft)
-- [ ] Move further up north and start a row-crop and cattle farm
+- [ ] Participate in a RedBull, Mtn Dew, X Games, or Olympic snow event
+
+<!--
+
+:white_check_mark: Contribute to the GitHubs Arctic Code Vault<br>
+:white_check_mark: Contribute to an OSS project with 1000+ stars<br>
+:white_large_square: Run a production project with 1000+ users<br>
+:white_large_square: Compile my own Linux Kernel<br>
+:white_large_square: Write a programming langauge compiler<br>
+:white_large_square: Complete [Hacker101 Capture the Flag](https://ctf.hacker101.com)<br>
+:white_large_square: Contribute to the Linux Kernel<br>
+:white_large_square: Sell a project/startup<br>
+:white_large_square: Work for FAANG (or Microsoft)<br>
+:white_large_square: Participate in a RedBull, Mtn Dew, X Games, or Olympic snow event
+
+-->
 
 ### What I Do
 - Currently, I am a sophomore in high school
@@ -30,8 +53,8 @@ Hey, I am Alec Wilson, I am a 15 year old kid born and raised in rural Ohio. I w
   - Currently I am working on [Turbster](https://turbster.app)
 
 ### Programming Languages
+- [Swift](https://swift.org) (my favorite)
 - [NodeJS](https://nodejs.org)
-- [Swift](https://swift.org)
 - [Python](https://python.org)
 - HTML, CSS, and JS
 
@@ -43,6 +66,7 @@ Hey, I am Alec Wilson, I am a 15 year old kid born and raised in rural Ohio. I w
 - Google Cloud and Amazon AWS
 
 ### Links
+- [text](sms:9376685138)
 - [email](mailto:jude@alecw.net)
 - [alecw.net](https://alecw.net)
 - [blog.alecw.net](https://blog.alecw.net/)
@@ -52,11 +76,4 @@ Hey, I am Alec Wilson, I am a 15 year old kid born and raised in rural Ohio. I w
 I wish this list wasn't so long
 - [Ambiently](https://github.com/alechash/Ambiently), an ambient sound app
 - [Branches](https://github.com/alechash/branches), this is a social media for developers. Login with GitHub
-- [Better Mac Store](https://github.com/alechash/BetterMacStore), an open source alternative to the Mac App Store. No signing, no stealing
 - [OpenCapita](https://github.com/OpenCapita/opencapita.com), this is a place where open source projects can come to get funding
-
-### Projects I Would Like to Redo
-- [Siddes](https://github.com/siddesmedia/siddes), this is an open source social media that brings features from Twitter and Reddit
-
-### Employment
-School :/
