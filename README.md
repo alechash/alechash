@@ -19,7 +19,7 @@ I live in ohio
 Im a sophomore in high school
 <br>
 <br>
-call me: 937 668 5138
+call me: 937 668 5138 (or text me if I dont pickup)
 <br>
 <br>
 <br>
