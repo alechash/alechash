@@ -1,3 +1,31 @@
+# Simulate Hire Me
+<br>
+<br>
+<br>
+<br>
+please
+<br>
+<br>
+<br>
+it would mean a lot<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+I live in ohio
+<br>
+<br>
+Im a sophomore in high school
+<br>
+<br>
+call me: 937 668 5138
+<br>
+<br>
+<br>
+:)
+
+<!--
 # Alec Wilson
 Hey, I am Alec Wilson, I am a 15 year old kid born and raised in rural Ohio. I was born in April of 2006. I enjoy making websites, and even more, iOS apps
 
@@ -47,6 +75,7 @@ Hey, I am Alec Wilson, I am a 15 year old kid born and raised in rural Ohio. I w
 
 -->
 
+<!--
 ### What I Do
 - Currently, I am a sophomore in high school
 - I like to make apps, specifically iOS apps  
@@ -77,3 +106,5 @@ I wish this list wasn't so long
 - [Ambiently](https://github.com/alechash/Ambiently), an ambient sound app
 - [Branches](https://github.com/alechash/branches), this is a social media for developers. Login with GitHub
 - [OpenCapita](https://github.com/OpenCapita/opencapita.com), this is a place where open source projects can come to get funding
+
+-->
