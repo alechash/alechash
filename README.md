@@ -1,3 +1,7 @@
+# [MY COMPANIES]
+- [Realtions](https://realtions.com)
+- [OOOk Dev](https://oook.dev)
+
 # [MY WEBSITES]
 - [alecs.bar](https://alecs.bar)
 - [alecw.net](https://alecw.net)
