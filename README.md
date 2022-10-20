@@ -6,7 +6,7 @@ __[FOLLOW ME]:__ [instagram](https://instagram.com/txtjude), [alecw.net](https:/
 
 __[LIFTKIT]:__ [website](https://liftkit.app), [instagram](https://instagram.com/LiftKitApp) - a weight lifting tracking app from me<br>
 __[HOUTIONS]:__ [website](https://houtions.com), [instagram](https://instagram.com/houtions) - a real estate CRM and marketing platform by me<br>
-__[PACE12]:__ [website](https://pace12.com), [instagram](https://instagram.com/PaceTwelve) - is the development company I started to house all my projects
+__[AFTERDARK]:__ [website](https://afterdark.dev), [instagram](https://instagram.com/AfterDarkDevelopment) - is the development company I started to house all my projects
 
 <hr>
 
