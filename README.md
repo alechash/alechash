@@ -8,6 +8,10 @@ __[LIFTKIT]:__ [website](https://liftkit.app), [instagram](https://instagram.com
 
 <hr>
 
+__[VERBUISE]:__ [website](https://verbuise.com) - a templating, translation, and live conversioning service for your projects<br>
+
+<hr>
+
 __[PHOTOGRAPHY]:__ [unsplash](https://unsplash.com/alechash), [alecs.bar](https://alecs.bar)
 
 <hr>
