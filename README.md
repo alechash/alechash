@@ -1,6 +1,6 @@
 <hr>
 
-__[FOLLOW ME]:__ [instagram](https://instagram.com/txtjude), [alecs.bar](https://alecs.bar)
+__[FOLLOW ME]:__ [instagram](https://instagram.com/txtjude), [judes.club](https://judes.club)
 
 <hr>
 
@@ -12,6 +12,6 @@ __[VERBUISE]:__ [website](https://verbuise.com) - a templating, translation, and
 
 <hr>
 
-__[PHOTOGRAPHY]:__ [unsplash](https://unsplash.com/alechash), [alecs.bar](https://alecs.bar)
+__[PHOTOGRAPHY]:__ [unsplash](https://unsplash.com/alechash), [judes.club](https://judes.club)
 
 <hr>
