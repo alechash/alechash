@@ -1,13 +1,13 @@
 <hr>
 
-__[FOLLOW ME]:__ [instagram](https://instagram.com/txtjude), [judes.club](https://judes.club)
+__[PHOTOGRAPHY PORTFOLIO]:__ [instagram](https://instagram.com/wil.tography), [unsplash](https://unsplash.com/alechash), [judes.club](https://judes.club)
 
 <hr>
 
-__[VERBUISE]:__ [website](https://verbuise.com) - a templating, translation, and live conversioning service for your projects<br>
+__[SOFTWARE PORTFOLIO]:__ [alecs.bar](https://alecs.bar)
 
 <hr>
 
-__[PHOTOGRAPHY]:__ [unsplash](https://unsplash.com/alechash), [instagram](https://instagram.com/wil.tography), [judes.club](https://judes.club)
+__[VERBUISE, a project by me]:__ [website](https://verbuise.com) - a templating, translation, and live conversioning service for your projects<br>
 
 <hr>
