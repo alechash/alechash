@@ -8,6 +8,10 @@ __[SOFTWARE PORTFOLIO]:__ [alecs.bar](https://alecs.bar)
 
 <hr>
 
+__[DIGESTO, a project by me]:__ [website](https://digesto.app) - an artificially intelligent news website<br>
+
+<hr>
+
 __[VERBUISE, a project by me]:__ [website](https://verbuise.com) - a templating, translation, and live conversioning service for your projects<br>
 
 <hr>
