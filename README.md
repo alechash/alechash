@@ -1,10 +1,10 @@
 <hr>
 
-__[PHOTOGRAPHY PORTFOLIO]:__ [instagram](https://instagram.com/wil.tography), [unsplash](https://unsplash.com/alechash), [judes.club](https://judes.club)
+__[PHOTOGRAPHY PORTFOLIO]:__ [instagram](https://instagram.com/wil.tography), [unsplash](https://unsplash.com/alechash), [judes.club/photo](https://judes.club/photo)
 
 <hr>
 
-__[SOFTWARE PORTFOLIO]:__ [alecs.bar](https://alecs.bar)
+__[SOFTWARE PORTFOLIO]:__ [judes.club](https://judes.clun)
 
 <hr>
 
