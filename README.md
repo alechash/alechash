@@ -4,7 +4,7 @@ __[PHOTOGRAPHY PORTFOLIO]:__ [instagram](https://instagram.com/wil.tography), [u
 
 <hr>
 
-__[SOFTWARE PORTFOLIO]:__ [judes.club](https://judes.clun)
+__[SOFTWARE PORTFOLIO]:__ [judes.club](https://judes.club)
 
 <hr>
 
