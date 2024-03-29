@@ -15,3 +15,7 @@ __[DIGESTO, a project by me]:__ [project homepage](https://digesto.app), [read t
 __[VERBUISE, a project by me]:__ [website](https://verbuise.com) - a templating, translation, and live conversioning service for your projects<br>
 
 <hr>
+
+__[NUMBER OF PROJECTS SHUT DOWN BY THE DOJ]:__ 2<br>
+
+<hr>
