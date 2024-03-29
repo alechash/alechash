@@ -16,6 +16,6 @@ __[VERBUISE, a project by me]:__ [website](https://verbuise.com) - a templating,
 
 <hr>
 
-__[NUMBER OF PROJECTS SHUT DOWN BY THE DOJ]:__ 2<br>
+__[NUMBER OF PROJECTS SHUTDOWN BY THE DOJ]:__ 2<br>
 
 <hr>
