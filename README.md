@@ -1,1 +1,5 @@
-<img src="/readme-header.svg" style="border-radius:25px;width:100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="readme-header.svg" style="width:100%">
+  <source media="(prefers-color-scheme: light)" srcset="readme-light.svg" style="width:100%">
+  <img src="readme-light.svg">
+</picture>
